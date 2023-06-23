@@ -1,5 +1,9 @@
 {
   "actuator": {
     "pin": 3
+  },
+  "leds": {
+    "warning" : 3,
+    "success" : 2
   }
 }
