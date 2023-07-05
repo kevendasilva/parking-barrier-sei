@@ -1,9 +1,13 @@
 {
   "actuator": {
-    "pin": 4
+    "pins": [6, 13, 19, 26]
   },
   "leds": {
     "warning" : 3,
     "success" : 2
+  },
+  "presence_sensor": {
+    "trigger_pin": 24,
+    "echo_pin": 23
   }
 }

@@ -7,18 +7,24 @@ def load_configs(root_dir):
 
     with open(config_file_path) as config_file:
       configs = json.load(config_file)
-      actuator_pin = configs["actuator"]["pin"]
+      actuator_pins = configs["actuator"]["pins"]
       warning_led_pin = configs["leds"]["warning"]
       success_led_pin = configs["leds"]["success"]
+      trigger_pin = configs["presence_sensor"]["trigger_pin"]
+      echo_pin = configs["presence_sensor"]["echo_pin"]
 
-      if actuator_pin and warning_led_pin and success_led_pin:
+      if actuator_pins and warning_led_pin and success_led_pin and trigger_pin and echo_pin:
         return {
           "actuator": {
-            "pin": actuator_pin
+            "pins": actuator_pins
           },
           "leds": {
             "warning": warning_led_pin,
             "success": success_led_pin
+          },
+          "presence_sensor": {
+            "trigger_pin": trigger_pin,
+            "echo_pin": echo_pin
           }
         }
 
