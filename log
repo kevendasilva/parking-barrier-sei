@@ -1,0 +1,227 @@
+07-07-2023 02:07:24 - Configurando atuadores e sensores...
+07-07-2023 02:07:24 - Iniciando atuador.
+07-07-2023 02:07:24 - Iniciando LEDs de sinalização.
+07-07-2023 02:07:24 - Iniciando o sensor de presença.
+07-07-2023 02:07:24 - Iniciando a cancela.
+07-07-2023 02:07:24 - Configuração finalizada.
+07-07-2023 02:07:24 - Começo do loop da aplicação.
+07-07-2023 02:08:11 - Programa interrompido pelo usuário.
+07-07-2023 02:08:11 - Liberando canais do controlador.
+07-07-2023 02:08:11 - Aplicação encerrada.
+07-07-2023 02:08:21 - Configurando atuadores e sensores...
+07-07-2023 02:08:21 - Iniciando atuador.
+07-07-2023 02:08:21 - Iniciando LEDs de sinalização.
+07-07-2023 02:08:21 - Iniciando o sensor de presença.
+07-07-2023 02:08:21 - Iniciando a cancela.
+07-07-2023 02:08:21 - Configuração finalizada.
+07-07-2023 02:08:21 - Começo do loop da aplicação.
+07-07-2023 02:11:57 - Programa interrompido pelo usuário.
+07-07-2023 02:11:57 - Liberando canais do controlador.
+07-07-2023 02:11:57 - Aplicação encerrada.
+07-07-2023 11:28:46 - Configurando atuadores e sensores...
+07-07-2023 11:28:46 - Iniciando atuador.
+07-07-2023 11:28:47 - Iniciando LEDs de sinalização.
+07-07-2023 11:28:47 - Iniciando o sensor de presença.
+07-07-2023 11:28:47 - Iniciando a cancela.
+07-07-2023 11:28:47 - Configuração finalizada.
+07-07-2023 11:28:47 - Começo do loop da aplicação.
+07-07-2023 11:28:57 - Programa interrompido pelo usuário.
+07-07-2023 11:28:57 - Liberando canais do controlador.
+07-07-2023 11:28:57 - Aplicação encerrada.
+07-07-2023 11:29:45 - Configurando atuadores e sensores...
+07-07-2023 11:29:45 - Iniciando atuador.
+07-07-2023 11:29:45 - Liberando canais do controlador.
+07-07-2023 11:29:45 - Aplicação encerrada.
+07-07-2023 11:30:01 - Configurando atuadores e sensores...
+07-07-2023 11:30:01 - Iniciando atuador.
+07-07-2023 11:30:02 - Iniciando LEDs de sinalização.
+07-07-2023 11:30:02 - Iniciando o sensor de presença.
+07-07-2023 11:30:02 - Iniciando a cancela.
+07-07-2023 11:30:02 - Configuração finalizada.
+07-07-2023 11:30:02 - Começo do loop da aplicação.
+07-07-2023 11:30:26 - Programa interrompido pelo usuário.
+07-07-2023 11:30:26 - Liberando canais do controlador.
+07-07-2023 11:30:26 - Aplicação encerrada.
+07-07-2023 11:47:49 - Configurando atuadores e sensores...
+07-07-2023 11:47:49 - Iniciando atuador.
+07-07-2023 11:47:49 - Iniciando LEDs de sinalização.
+07-07-2023 11:47:49 - Iniciando o sensor de presença.
+07-07-2023 11:47:49 - Iniciando a cancela.
+07-07-2023 11:47:49 - Configuração finalizada.
+07-07-2023 11:47:49 - Começo do loop da aplicação.
+07-07-2023 11:48:03 - Programa interrompido pelo usuário.
+07-07-2023 11:48:03 - Liberando canais do controlador.
+07-07-2023 11:48:03 - Aplicação encerrada.
+07-07-2023 11:48:24 - Configurando atuadores e sensores...
+07-07-2023 11:48:24 - Iniciando atuador.
+07-07-2023 11:48:25 - Iniciando LEDs de sinalização.
+07-07-2023 11:48:25 - Iniciando o sensor de presença.
+07-07-2023 11:48:25 - Iniciando a cancela.
+07-07-2023 11:48:25 - Configuração finalizada.
+07-07-2023 11:48:25 - Começo do loop da aplicação.
+07-07-2023 11:48:34 - Carro está próximo.
+07-07-2023 11:48:36 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:48:36 - Placa identificado: <Response [200]>
+07-07-2023 11:48:36 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:48:36 - Liberando canais do controlador.
+07-07-2023 11:48:36 - Aplicação encerrada.
+07-07-2023 11:49:14 - Configurando atuadores e sensores...
+07-07-2023 11:49:14 - Iniciando atuador.
+07-07-2023 11:49:15 - Iniciando LEDs de sinalização.
+07-07-2023 11:49:15 - Iniciando o sensor de presença.
+07-07-2023 11:49:15 - Iniciando a cancela.
+07-07-2023 11:49:15 - Configuração finalizada.
+07-07-2023 11:49:15 - Começo do loop da aplicação.
+07-07-2023 11:49:23 - Carro está próximo.
+07-07-2023 11:49:24 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:49:24 - Placa identificado: P0X4G21
+07-07-2023 11:49:24 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:49:24 - Não foi possível encontrar veículo com placa "P0X4G21".
+07-07-2023 11:49:30 - Carro está próximo.
+07-07-2023 11:49:31 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:49:31 - Placa identificado: P0X4G21
+07-07-2023 11:49:31 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:49:32 - Não foi possível encontrar veículo com placa "P0X4G21".
+07-07-2023 11:49:45 - Programa interrompido pelo usuário.
+07-07-2023 11:49:45 - Liberando canais do controlador.
+07-07-2023 11:49:45 - Aplicação encerrada.
+07-07-2023 11:50:53 - Configurando atuadores e sensores...
+07-07-2023 11:50:53 - Iniciando atuador.
+07-07-2023 11:50:53 - Iniciando LEDs de sinalização.
+07-07-2023 11:50:54 - Iniciando o sensor de presença.
+07-07-2023 11:50:54 - Iniciando a cancela.
+07-07-2023 11:50:54 - Configuração finalizada.
+07-07-2023 11:50:54 - Começo do loop da aplicação.
+07-07-2023 11:50:59 - Carro está próximo.
+07-07-2023 11:51:01 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:51:01 - Placa identificado: P0X4G21
+07-07-2023 11:51:01 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:51:01 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:51:01 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:51:18 - Carro está próximo.
+07-07-2023 11:51:20 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:51:20 - Placa identificado: P0X4G21
+07-07-2023 11:51:20 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:51:20 - Programa interrompido pelo usuário.
+07-07-2023 11:51:20 - Liberando canais do controlador.
+07-07-2023 11:51:20 - Aplicação encerrada.
+07-07-2023 11:52:32 - Configurando atuadores e sensores...
+07-07-2023 11:52:32 - Iniciando atuador.
+07-07-2023 11:52:32 - Iniciando LEDs de sinalização.
+07-07-2023 11:52:33 - Iniciando o sensor de presença.
+07-07-2023 11:52:33 - Iniciando a cancela.
+07-07-2023 11:52:33 - Configuração finalizada.
+07-07-2023 11:52:33 - Começo do loop da aplicação.
+07-07-2023 11:52:38 - Carro está próximo.
+07-07-2023 11:52:40 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:52:40 - Placa identificado: P0X4G21
+07-07-2023 11:52:40 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:52:40 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:52:40 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:52:56 - Programa interrompido pelo usuário.
+07-07-2023 11:52:56 - Liberando canais do controlador.
+07-07-2023 11:52:56 - Aplicação encerrada.
+07-07-2023 11:54:07 - Configurando atuadores e sensores...
+07-07-2023 11:54:07 - Iniciando atuador.
+07-07-2023 11:54:08 - Iniciando LEDs de sinalização.
+07-07-2023 11:54:08 - Iniciando o sensor de presença.
+07-07-2023 11:54:08 - Iniciando a cancela.
+07-07-2023 11:54:08 - Configuração finalizada.
+07-07-2023 11:54:08 - Começo do loop da aplicação.
+07-07-2023 11:54:13 - Carro está próximo.
+07-07-2023 11:54:15 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:54:15 - Placa identificado: P0X4G21
+07-07-2023 11:54:15 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:54:15 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:54:15 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:54:36 - Carro está próximo.
+07-07-2023 11:54:37 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:54:37 - Placa identificado: P0X4G21
+07-07-2023 11:54:37 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:54:37 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:54:37 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:54:48 - Programa interrompido pelo usuário.
+07-07-2023 11:54:48 - Liberando canais do controlador.
+07-07-2023 11:54:48 - Aplicação encerrada.
+07-07-2023 11:57:10 - Configurando atuadores e sensores...
+07-07-2023 11:57:10 - Iniciando atuador.
+07-07-2023 11:57:10 - Iniciando LEDs de sinalização.
+07-07-2023 11:57:11 - Iniciando o sensor de presença.
+07-07-2023 11:57:11 - Iniciando a cancela.
+07-07-2023 11:57:11 - Configuração finalizada.
+07-07-2023 11:57:11 - Começo do loop da aplicação.
+07-07-2023 11:57:16 - Carro está próximo.
+07-07-2023 11:57:18 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:57:18 - Placa identificado: P0X4G21
+07-07-2023 11:57:18 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:57:18 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:57:18 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:57:33 - Carro está próximo.
+07-07-2023 11:57:35 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 11:57:35 - Placa identificado: P0X4G21
+07-07-2023 11:57:35 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 11:57:35 - Veículo "Chevet" encontrado para cliente com ID 1.
+07-07-2023 11:57:35 - Criando movimentação para 1 com custo 6.
+07-07-2023 11:57:49 - Programa interrompido pelo usuário.
+07-07-2023 11:57:49 - Liberando canais do controlador.
+07-07-2023 11:57:49 - Aplicação encerrada.
+07-07-2023 12:06:18 - Configurando atuadores e sensores...
+07-07-2023 12:06:18 - Iniciando atuador.
+07-07-2023 12:06:19 - Iniciando LEDs de sinalização.
+07-07-2023 12:06:19 - Iniciando o sensor de presença.
+07-07-2023 12:06:19 - Iniciando a cancela.
+07-07-2023 12:06:19 - Configuração finalizada.
+07-07-2023 12:06:19 - Começo do loop da aplicação.
+07-07-2023 12:06:55 - Carro está próximo.
+07-07-2023 12:06:56 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 12:06:56 - Placa identificado: P0X4G21
+07-07-2023 12:06:56 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 12:06:56 - Veículo "Chevette" encontrado para cliente com ID 1.
+07-07-2023 12:06:56 - Criando movimentação para 1 com custo 6.
+07-07-2023 12:07:24 - Carro está próximo.
+07-07-2023 12:07:26 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 12:07:26 - Placa identificado: P0X4G21
+07-07-2023 12:07:26 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 12:07:26 - Veículo "Chevette" encontrado para cliente com ID 1.
+07-07-2023 12:07:26 - Criando movimentação para 1 com custo 6.
+07-07-2023 12:07:40 - Programa interrompido pelo usuário.
+07-07-2023 12:07:40 - Liberando canais do controlador.
+07-07-2023 12:07:40 - Aplicação encerrada.
+07-07-2023 12:08:32 - Configurando atuadores e sensores...
+07-07-2023 12:08:32 - Iniciando atuador.
+07-07-2023 12:08:33 - Iniciando LEDs de sinalização.
+07-07-2023 12:08:33 - Iniciando o sensor de presença.
+07-07-2023 12:08:33 - Iniciando a cancela.
+07-07-2023 12:08:33 - Configuração finalizada.
+07-07-2023 12:08:33 - Começo do loop da aplicação.
+07-07-2023 12:08:36 - Carro está próximo.
+07-07-2023 12:08:37 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 12:08:37 - Placa identificado: P0X4G21
+07-07-2023 12:08:37 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 12:08:37 - Veículo "Chevette" encontrado para cliente com ID 1.
+07-07-2023 12:08:37 - Criando movimentação para 1 com custo 6.
+07-07-2023 12:08:51 - Programa interrompido pelo usuário.
+07-07-2023 12:08:51 - Liberando canais do controlador.
+07-07-2023 12:08:51 - Aplicação encerrada.
+07-07-2023 12:10:24 - Configurando atuadores e sensores...
+07-07-2023 12:10:24 - Iniciando atuador.
+07-07-2023 12:10:25 - Iniciando LEDs de sinalização.
+07-07-2023 12:10:25 - Iniciando o sensor de presença.
+07-07-2023 12:10:25 - Iniciando a cancela.
+07-07-2023 12:10:25 - Configuração finalizada.
+07-07-2023 12:10:25 - Começo do loop da aplicação.
+07-07-2023 12:10:27 - Carro está próximo.
+07-07-2023 12:10:29 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 12:10:29 - Placa identificado: P0X4G21
+07-07-2023 12:10:29 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 12:10:29 - Veículo "Chevette" encontrado para cliente com ID 1.
+07-07-2023 12:10:29 - Criando movimentação para 1 com custo 6.
+07-07-2023 12:12:18 - Carro está próximo.
+07-07-2023 12:12:20 - Resposta recebida pelo modelo identificador de placas.
+07-07-2023 12:12:20 - Placa identificado: P0X4G21
+07-07-2023 12:12:20 - Verificando se o veículo está cadastrado no sistema.
+07-07-2023 12:12:20 - Veículo "Chevette" encontrado para cliente com ID 1.
+07-07-2023 12:12:20 - Criando movimentação para 1 com custo 6.
+07-07-2023 12:12:35 - Programa interrompido pelo usuário.
+07-07-2023 12:12:35 - Liberando canais do controlador.
+07-07-2023 12:12:35 - Aplicação encerrada.

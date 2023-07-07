@@ -7,7 +7,7 @@
     "success" : 2
   },
   "presence_sensor": {
-    "trigger_pin": 24,
-    "echo_pin": 23
+    "trigger_pin": 23,
+    "echo_pin": 24
   }
 }
